@@ -18,8 +18,7 @@ API Communication: Axios / Fetch API
 
 Clone repository
 
-git clone https://github.com/NVA2k1/webphim.git
-cd webphim
+git clone https://github.com/NVA2k1/phimmoi.git
 
 Cài đặt dependencies
 
